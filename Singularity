@@ -15,6 +15,8 @@ echo "Welcome to BiocoreCRG Sigtarp Image"
 	ln -s /external/targetp/targetp /usr/local/bin/targetp
 	ln -s /external/chlorop/chlorop /usr/local/bin/chlorop
 
+	chmod a+rx /usr/local/bin/*
+
 %files
 
 	external/signalp /tmp/
