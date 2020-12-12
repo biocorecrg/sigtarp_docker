@@ -3,4 +3,4 @@ Container image with signalp and targetp programs for functional analysis pipeli
 
 Building in Singularity
 
-    sudo /usr/local/bin/singularity build sigtarp.simg Singularity
+    sudo singularity build sigtarp.sif Singularity
