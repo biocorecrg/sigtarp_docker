@@ -12,4 +12,4 @@ Container recipes will grab these files from there.
 
 Building in [Singularity](https://singularity.hpcng.org/)
 
-    sudo /usr/local/bin/singularity build sigtarp.simg Singularity
+    sudo singularity build sigtarp.simg Singularity
