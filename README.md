@@ -10,7 +10,7 @@ Create a directory named ```external``` and place 3 directories with its associa
 
 Container recipes will grab the necessary files from these directories.
 
-Building in [Singularity](https://singularity.hpcng.org/)
+Building with [Singularity](https://singularity.hpcng.org/):
 
     sudo singularity build sigtarp.sif Singularity
 
