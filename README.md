@@ -2,7 +2,7 @@
 
 Container image with [signalP](http://www.cbs.dtu.dk/services/SignalP/), [targetP](http://www.cbs.dtu.dk/services/TargetP/) and [chloroP](http://www.cbs.dtu.dk/services/ChloroP/) programs for functional analysis pipelines.
 
-Create a directory named ```external``` and place 3 directories with its associated files and binaries as downloaded from the links above:
+Create a directory named ```external``` and place 3 directories with its associated files and binaries as downloaded from the links above. You need to be granted an academic license permission first.
 
 * signalp (4.1)
 * targetp (1.1)
