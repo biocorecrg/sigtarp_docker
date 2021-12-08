@@ -15,6 +15,6 @@ RUN mkdir -p /external/targetp
 COPY $SIGNALP_PATH /external/signalp
 COPY $TARGETP_PATH /external/targetp
 
-RUN ln -s /external/signalp/signalp /usr/local/bin/signalp
-RUN ln -s /external/targetp/targetp /usr/local/bin/targetp
+RUN ln -s /external/signalp/bin/signalp /usr/local/bin/signalp
+RUN ln -s /external/targetp/bin/targetp /usr/local/bin/targetp
 
